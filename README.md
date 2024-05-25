@@ -1,6 +1,6 @@
 # Netflix_Data_Analysis
-python Data visualization
-##Netflix Dataset Visualization
+python Data visualization\
+##Netflix Dataset Visualization:-
 #Overview:-
 This project explores a dataset containing information about movies and TV shows available on Netflix. The dataset includes details such as title, director, cast, country, release date, rating, duration, genres, and description. Through visualizations, we aim to gain insights into the distribution of content, production trends, and audience preferences on Netflix.
 
